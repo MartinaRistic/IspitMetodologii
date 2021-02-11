@@ -1,2 +1,2 @@
 # IspitMetodologii
-Испитот по предметот -> https://github.com/MartinaRistic/IspitMetodologii/tree/master
+Решението на испитот се наоѓа на Master гранката -> https://github.com/MartinaRistic/IspitMetodologii/tree/master
